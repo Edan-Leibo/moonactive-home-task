@@ -8,7 +8,7 @@ The system uses a simple GUI for image file upload, and displays the extracted l
 This data is also stored in a relational database, along with the timestamp and the image file path.
 
 ## *What’s needed* :computer:
-1. Make sure you have PostgreSQL installed on your machine as well as pgAdmin — PostgreSQL Management Tool.
+1. Make sure you have PostgreSQL installed on your machine as well as pgAdmin — PostgreSQL Management Tool (use "12345" as a password).
 2. Import into PostgreSQL the database provided in the DB folder under the filename "Parking Lot Backup.tar".
 3. Make sure you have Node.js and NPM installed.
 4. Download all the dependencies using "npm install".
