@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.7-alpha.3",
+    "express-fileupload": "^1.1.9",
     "ocr-space-api-alt2": "^1.0.0-c",
     "pg": "^8.2.1",
     "uniqid": "^5.2.0"
